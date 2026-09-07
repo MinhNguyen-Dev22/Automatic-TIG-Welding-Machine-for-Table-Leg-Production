@@ -7,6 +7,7 @@ An ESP8266-based solar-powered smart irrigation system with real-time environmen
 ---
 
 An ESP8266-based solar-powered smart irrigation system featuring automatic watering, environmental monitoring, Firebase cloud storage, and remote control through the Blynk IoT mobile application.
+![Uploading image.png…]()
 
 ---
 
