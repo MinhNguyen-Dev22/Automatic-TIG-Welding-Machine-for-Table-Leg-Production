@@ -1,6 +1,6 @@
-# Solar-Powered-Smart-Irrigation-System
+# Automatic TIG Welding Machine for Table Leg Production
 
-An ESP8266-based solar-powered smart irrigation system with real-time environmental monitoring, Firebase integration, and automatic irrigation control.
+A 4-axis CNC-controlled automatic TIG welding system designed for high-precision welding of steel table legs, featuring PLC-based motion control and automated welding sequence management.
 
 **ESP8266 IoT** | **Blynk IoT** | **Firebase** | **Realtime Database** | **Arduino IDE** | **License MIT** | **Status Completed**
 
@@ -155,10 +155,3 @@ The firmware is written in Arduino IDE. The system follows the flowchart below:
 #define BLYNK_TEMPLATE_ID   "YOUR_TEMPLATE_ID"
 #define BLYNK_TEMPLATE_NAME "YOUR_TEMPLATE_NAME"
 #define BLYNK_AUTH_TOKEN    "YOUR_AUTH_TOKEN"
----
-
-**Cách sử dụng:**  
-- Mở repository trên GitHub → **Add file** → **Create new file** → đặt tên `README.md`.  
-- Paste toàn bộ nội dung trên vào.  
-- Kéo xuống dưới, nhấn **Commit new file**.  
-
